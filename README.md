@@ -15,3 +15,5 @@
 /src/Farm/Products/Product -- ValueObject собранных продуктов
 /src/Farm/Registrar/ -- все способы выдачи идентификатора объекту
 /Farm/Farm -- основной объект фермы
+
+![изображение](https://user-images.githubusercontent.com/28905785/224992218-75deccc4-0f54-4bd1-90fa-a02372d824a0.png)
